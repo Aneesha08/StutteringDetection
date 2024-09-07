@@ -1,0 +1,8 @@
+flask
+transformers
+tensorflow
+numpy
+torch
+torchaudio
+librosa
+tf-keras
